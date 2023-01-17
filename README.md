@@ -11,7 +11,7 @@ I'm an open source software engineer and I contribute mainly to the following pr
 * https://github.com/serverlessworkflow/specification
 * https://github.com/serverlessworkflow/sdk-java
 
-#### quarkus-openapi-generator
+#### Quarkus OpenAPI Generator
 
 * https://github.com/quarkiverse/quarkus-openapi-generator
 
