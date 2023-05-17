@@ -9,7 +9,6 @@ I'm an open source software engineer and I contribute mainly to the following pr
 #### CNCF Serverless Workflow
 
 * https://github.com/serverlessworkflow/specification
-* https://github.com/serverlessworkflow/sdk-java
 
 #### Quarkus OpenAPI Generator
 
