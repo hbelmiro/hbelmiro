@@ -2,9 +2,9 @@ I'm an open source software engineer and I contribute mainly to the following pr
 
 #### Kogito
 
-* https://github.com/kiegroup/kogito-runtimes
-* https://github.com/kiegroup/kogito-docs
-* https://github.com/kiegroup/kogito-examples
+* https://github.com/apache/incubator-kie-kogito-runtimes
+* https://github.com/apache/incubator-kie-kogito-docs
+* https://github.com/apache/incubator-kie-kogito-examples
 
 #### CNCF Serverless Workflow
 
