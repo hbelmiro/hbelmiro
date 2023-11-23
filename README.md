@@ -1,3 +1,4 @@
+<!--
 I'm an open source software engineer and currently, I contribute actively mainly to the following projects:
 
 #### [Open Data Hub](https://github.com/opendatahub-io)
@@ -29,7 +30,7 @@ I also help professional Java developers write maintainable software and stay up
 * https://github.com/hbelmiro/100DaysOfJava - This repository contains code that I shared on my social media for 100 uninterrupted days
 
 * https://github.com/hbelmiro/demos - This repository contains demos and tutorials related to Java and cloud-native
-
+-->
 
 <!--
 **hbelmiro/hbelmiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
