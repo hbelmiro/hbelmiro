@@ -1,4 +1,14 @@
-I'm an open source software engineer and I contribute mainly to the following projects:
+I'm an open source software engineer and currently, I contribute actively mainly to the following projects:
+
+#### [Open Data Hub](https://github.com/opendatahub-io)
+
+* https://github.com/opendatahub-io/data-science-pipelines-operator
+
+#### Quarkus OpenAPI Generator
+
+* https://github.com/quarkiverse/quarkus-openapi-generator
+
+### Other projects that I no longer contribute actively
 
 #### Kogito
 
@@ -9,10 +19,6 @@ I'm an open source software engineer and I contribute mainly to the following pr
 #### CNCF Serverless Workflow
 
 * https://github.com/serverlessworkflow/specification
-
-#### Quarkus OpenAPI Generator
-
-* https://github.com/quarkiverse/quarkus-openapi-generator
 
 Want to become an open source contributor too? I have a couple of issues that you can work on. Check the following repository:
 
